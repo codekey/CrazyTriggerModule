@@ -1,5 +1,4 @@
-# TriggerModule
-Crazy Trigger module
+# CrazyTriggerModule
 
 Here is a project that I was designing for contract work.
 
