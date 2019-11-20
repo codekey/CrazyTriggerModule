@@ -1,0 +1,39 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R17        RES_0603              3200mil       2900mil       3200mil       2900mil       3200mil    2867.52mil  T         90.00 10k            
+R16        RES_0603              2385mil       2770mil       2385mil       2770mil    2417.48mil       2770mil  T        180.00 10k            
+R15        RES_0603              2970mil       3400mil       2970mil       3400mil       2970mil    3432.48mil  T        270.00 1K             
+Q6         SOT-23                2305mil       3610mil       2305mil       3610mil   2267.598mil    3570.63mil  T         90.00 MMBT3904       
+S1         SAB_R9K410R3V         3485mil       3415mil       3535mil       3565mil       3535mil       3565mil  T        180.00 R9410R3V       
+D2         Diode_DO-214AA(SMB)       2323mil       2965mil       2323mil       2965mil       2323mil    2872.48mil  T         90.00 ES2DFSTR-ND    
+C3         Cap_0805_Tantalum       3246mil       3019mil       3246mil       3019mil   3301.118mil       3019mil  T        180.00 33uF           
+U1         SOIC-SL14_N           3193mil       3316mil       3193mil       3316mil   3098.512mil       3466mil  T          0.00 PIC16F1503-E/SL-ND
+R7         RES_0603              2450mil       3465mil       2450mil       3465mil    2482.48mil       3465mil  T        180.00 1k             
+R6         RES_0603              3073mil       3620mil       3073mil       3620mil       3073mil    3652.48mil  T        270.00 2K             
+R5         RES_0603              3158mil       3620mil       3158mil       3620mil       3158mil    3652.48mil  T        270.00 10k            
+R4         RES_0603              2910mil       3279mil       2910mil       3279mil    2942.48mil       3279mil  T        180.00 10k            
+R3         RES_0603              3254mil       3620mil       3254mil       3620mil       3254mil    3652.48mil  T        270.00 10k            
+R2         RES_0603              2669mil       3232mil       2669mil       3232mil       2669mil    3264.48mil  T        270.00 10k            
+R1         RES_0603              3430mil       3135mil       3430mil       3135mil    3397.52mil       3135mil  T        360.00 1k             
+R9         RES_0603              2752mil       3244mil       2752mil       3244mil       2752mil    3276.48mil  T        270.00 10k            
+R10        RES_0603              2865mil       3440mil       2865mil       3440mil       2865mil    3472.48mil  T        270.00 1k             
+D1         LED_Lite-On           3620mil       3135mil       3620mil       3135mil   3649.528mil       3135mil  T        180.00 LTST-C191KRKT  
+R11        RES_0603              2720mil       3355mil       2720mil       3355mil    2687.52mil       3355mil  T        360.00 1k             
+R12        RES_0603              2585mil       3465mil       2585mil       3465mil    2617.48mil       3465mil  T        180.00 1k             
+R8         RES_0603              2980mil       3575mil       2980mil       3575mil       2980mil    3542.52mil  T         90.00 1k             
+R13        RES_0603              2310mil       3465mil       2310mil       3465mil    2277.52mil       3465mil  T        360.00 10k            
+R14        RES_0603              2115mil       3625mil       2115mil       3625mil    2147.48mil       3625mil  T        180.00 1k             
+Q3         SOT-23                2865mil       3610mil       2865mil       3610mil   2827.598mil    3570.63mil  T         90.00 MMBT3904       
+Q1         SOT-23                2740mil       3491mil       2740mil       3491mil   2702.598mil    3451.63mil  T         90.00 MMBT3904       
+Q4         SOT-23                2640mil       3610mil       2640mil       3610mil   2602.598mil    3570.63mil  T         90.00 MMBT3904       
+Q5         SOT-23                2470mil       3610mil       2470mil       3610mil   2432.598mil    3570.63mil  T         90.00 MMBT3904       
+TP1        Test_Point_Top_Layer       3345mil       3655mil       3345mil       3655mil       3345mil       3655mil  T          0.00 {Value}        
+C2         CAP_0603              2899mil       3179mil       2899mil       3179mil   2930.496mil       3179mil  T        180.00 0.1uF          
+C4         CAP_0603              3234mil       3533mil       3234mil       3533mil   3265.496mil       3533mil  T        180.00 0.1uF          
+C1         CAP_6.3x5.8           2573mil       2988mil       2573mil       2988mil   2667.488mil       2988mil  T        180.00 220uF          
+Q2         SOT-223               2431mil       3276mil       2431mil       3276mil   2545.174mil   3185.448mil  T        180.00 PZT751         
+S2         Push_Button       3550.787mil   2913.386mil       3600mil       2825mil       3600mil       2825mil  T         90.00 FSMRA2JH       
+P1         ICSP                  2844mil       2776mil       3094mil       2776mil       3094mil       2776mil  T        180.00 ICSP           
+U2         SOT-223               2935mil       2985mil       2935mil       2985mil   3049.174mil   2894.448mil  T        180.00 LM1117         
+J1         Molex_Micro-Fit   2039.016mil    3196.22mil       2065mil       2960mil       2065mil       2960mil  T          0.00 43045-1000     
+
