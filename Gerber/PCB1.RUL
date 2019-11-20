@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: E:\My Documents\Altium\AD16\Projects\CTM-10\Altium files\PCB1.PcbDoc
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_GND|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_Battery|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_VCC|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Width|RuleName=Width_12v0|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width_Output1_Pos|Scope=Board|Minimum=19.00
